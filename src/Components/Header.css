@@ -1,0 +1,37 @@
+.lexicon-brand {
+    background-color: Red; /* Blue background for Lexicon */
+    color: white;              /* White text color */
+    padding: 5px 15px;         /* Padding around the text */
+    border-radius: 4px;        /* Rounded corners */
+  }
+  
+  .custom-navbar {
+    background-color: #f8f9fa; /* Light gray for the rest of the header */
+  }
+  
+  .custom-navbar .nav-link {
+    color: #000; /* Black text for nav links */
+  }
+  
+  
+  
+
+  /* Top Section of the Header */
+  
+  /* Bottom Section of the Header */
+  .bottom-header {
+    background-color: #ff0000; /* Red background */
+    padding: 20px;            /* Padding around the content */
+    text-align: center;    
+    height: max-content; 
+    padding: 5px 15px;    /* Center-align text horizontally */
+  }
+  
+  .heading {
+    color: white;             /* White text color */
+    margin: 3;                /* Remove default margin */
+    font-size: 2rem;  
+    padding:40px 20px;        /* Larger font size */
+  }
+  
+  
